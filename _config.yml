@@ -119,5 +119,6 @@ exclude:
   - Gemfile.lock
   - vendor
 
-url: "https://julio120996.github.io/Parsa-jekyll/"
-baseurl: "https://julio120996.github.io/Parsa-jekyll/"
+url: "https://julio120996.github.io"
+baseurl: "/Parsa-jekyll"
+
